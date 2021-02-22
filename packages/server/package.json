@@ -1,6 +1,6 @@
 {
   "name": "@basic/server",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "> TODO: description",
   "author": "ericchen <ericrcc588@gmail.com>",
   "homepage": "https://github.com/ecodercc5/practice-monorepo#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/ecodercc5/practice-monorepo/issues"
   },
   "dependencies": {
-    "@basic/core": "^0.2.0"
+    "@basic/core": "^0.2.1"
   },
   "devDependencies": {
     "@types/node": "^14.14.31"
