@@ -1,6 +1,6 @@
 {
   "name": "@basic/web",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "> TODO: description",
   "author": "ericchen <ericrcc588@gmail.com>",
   "homepage": "",
@@ -14,7 +14,7 @@
     "lib"
   ],
   "dependencies": {
-    "@basic/core": "^0.1.1"
+    "@basic/core": "^0.2.0"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
